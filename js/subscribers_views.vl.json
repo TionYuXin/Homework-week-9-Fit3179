@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 1000,
   "height": 500,
-  "title": "Global Subscribers and Video Views on YouTube (2020)",
+  "title": "Global Subscribers and Video Views on YouTube",
   "projection": {
     "type": "equalEarth"
   },
